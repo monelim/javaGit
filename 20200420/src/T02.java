@@ -17,7 +17,7 @@ public class T02 {
 				
 				if(result == 99)
 					
-					System.out.println("A B + B A = " + m + " + " + n + " = " + result);				
+					System.out.println("A B + B A = " + i + j + " + " + j + i + " = " + result);				
 			}
 		}
 	}
